@@ -13,10 +13,13 @@ All photos of a set::
 
     $ flickr-dl http://www.flickr.com/photos/kennethreitz/sets/72157626128136887/
 
-A specific photo:
+A specific photo::
 
     $ flickr-dl http://www.flickr.com/photos/kennethreitz/5521041505/in/set-72157626128136887
 
+A users's favorites::
+
+    $ flickr-dl http://www.flickr.com/photos/kennethreitz/favorites/
 
 Installation
 ------------
